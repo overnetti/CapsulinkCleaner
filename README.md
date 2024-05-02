@@ -12,6 +12,8 @@ This project is currently still a work-in-progress. More details can be seen in 
 ## Updates to come
 1. Testing deletion
 2. Package into exe file
+3. Safeguards for date range inputs
+4. Confirmation of deletion before deletion with final user confirm after printing out links to be deleted
 
 ## Developer dependencies
 1. Python 3.12
