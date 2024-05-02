@@ -1,7 +1,7 @@
 ## Description
 Welcome to Capsulink Cleaner!
 
-This script allows users to input a date range to delete links from their Capsulink interface. Users will need to have their API keys stored safely on their machines in order to utilize this script.
+This script allows users to input a date range to delete links from their Capsulink interface after confirming final deletion following a review of the links to be deleted. Users will need to have their API keys stored safely on their machines in order to utilize this script.
 
 This project is currently still a work-in-progress. More details can be seen in the Updates to Come section and the Improvements section.
 
@@ -13,7 +13,6 @@ This project is currently still a work-in-progress. More details can be seen in 
 1. Testing deletion
 2. Package into exe file
 3. Safeguards for date range inputs
-4. Confirmation of deletion before deletion with final user confirm after printing out links to be deleted
 
 ## Developer dependencies
 1. Python 3.12
